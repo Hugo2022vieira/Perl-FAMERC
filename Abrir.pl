@@ -1,0 +1,1 @@
+open(handle,'1HSG2.txt') or die ("Não pode abrir o arquivo:$|");
